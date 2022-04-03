@@ -1,1 +1,2 @@
 binario
+um novo binario.
